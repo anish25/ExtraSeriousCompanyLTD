@@ -1,3 +1,8 @@
+//FILE NAME : index.js
+//Author's Name : Anish Gandhi & Dharmik Patel
+//Website Name:-Incident Managment Site
+//File Description : index file that is the root for the app design
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

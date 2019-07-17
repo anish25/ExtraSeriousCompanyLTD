@@ -1,3 +1,8 @@
+//FILE NAME : user.js
+//Author's Name : Anish Gandhi & Dharmik Patel
+//Website Name:-Incident Managment Site
+//File Description : file that routes all the user details as per required.
+
 const router = require('express').Router();
 let User = require('../models/user.model');
 

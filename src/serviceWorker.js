@@ -1,3 +1,9 @@
+//FILE NAME : serviceWorker.js
+//Author's Name : Anish Gandhi & Dharmik Patel
+//Website Name:-Incident Managment Site
+//File Description : its a file that supports background programmable proxy and its used to work react apps offline.
+
+
 // This optional code is used to register a service worker.
 // register() is not called by default.
 

@@ -1,3 +1,8 @@
+//FILE NAME : App.js
+//Author's Name : Anish Gandhi & Dharmik Patel
+//Website Name:-Incident Managment Site
+//File Description : Used to make single static pages in the app
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';

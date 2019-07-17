@@ -1,3 +1,8 @@
+//FILE NAME : user.model.js
+//Author's Name : Anish Gandhi & Dharmik Patel
+//Website Name:-Incident Managment Site
+//File Description : Model that is used to create new users
+
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const userSchema = new Schema({
